@@ -2,3 +2,6 @@
 Глава 1
 Глава 2 git commit -am Добавлена глава 2
 Глава 2
+Новая глава git add story.txt git restore --staged story.txt
+Новая глава
+Не та глава
